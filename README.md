@@ -18,4 +18,4 @@ Setting up apache spark with apache toree is extremely simple.
 +    pip install toree
 +    jupyter toree install --spark_home=/usr/local/bin/{apache-spark-download-folder}`
 
-#### Done!
+### Done!
